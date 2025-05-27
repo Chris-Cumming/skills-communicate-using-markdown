@@ -12,3 +12,5 @@ I have started testing the syntax of markdown - it's quite nice actually and I l
 ```python
 print("Hello world, I want the GitHub bot to update this action now so I can finish this course")
 ```
+- [ ] Testing list functionality
+- [x] It works!
