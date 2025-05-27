@@ -9,6 +9,6 @@ I have started testing the syntax of markdown - it's quite nice actually and I l
 
 ![Testing image functionality of markdown](https://picsum.photos/id/237/200/300)
 
-~~~python
+```python
 print("Hello world, I want the GitHub bot to update this action now so I can finish this course")
-~~~
+```
