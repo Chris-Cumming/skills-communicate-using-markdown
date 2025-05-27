@@ -6,3 +6,5 @@
 ###### Six headings is definitely too many
 
 I have started testing the syntax of markdown - it's quite nice actually and I like it especially in GitHub so far.
+
+![Testing image functionality of markdown](https://picsum.photos/id/237/200/300)
