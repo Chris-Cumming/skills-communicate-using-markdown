@@ -9,10 +9,6 @@ I have started testing the syntax of markdown - it's quite nice actually and I l
 
 ![Testing image functionality of markdown](https://picsum.photos/id/237/200/300)
 
-### Code snippets in Python
-#### I have to use 3 tilde (~) instead of backticks
-#### Also need to specify the code being implemented
-
 ~~~python
 fig, axs = plt.subplots(2, 2, figsize = (6.4, 4.8))
 loss = axs[0, 0].imshow(D1_loss, vmin = -np.max(D1_loss + 100), vmax = np.max(D1_loss + 100),cmap='seismic_r')
